@@ -12,9 +12,9 @@
 1 mg/L of water = 1 mg/1000g of water (recalling that 1L = 1000g of _distilled_ water).
 
 ### Accordingly: 
-* PPT = part per _thousand_, i.e. 1/thousand of water = 1/10<sup>3</sup> = g/L.
 * PPM = part per _million_, i.e. 1/million of water = 1/10<sup>6</sup> = mg/L.
 * PPB = part per _billion_, i.e. 1/billion of water = 1/10<sup>9</sup> = µg/L.
+* PPT = part per _trillion_, i.e. 1/trillion of water = 1/10<sup>12</sup> = ng/L.
 
 ## Acid Rains
 
